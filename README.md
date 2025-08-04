@@ -1,3 +1,7 @@
+# ⛔️ **DEPRECATED** — do not use for new projects
+
+See [our current docs](https://docs.apostrophecms.org/)
+
 # apostrophe-query-cache
 
 This *experimental* module adds a simple MongoDB query cache to an [Apostrophe site](http://apostrophenow.org). The cache is applied to all calls to `apos.get`, which means it impacts just about all content displayed by Apostrophe.
